@@ -1,7 +1,5 @@
 # Smartphone-Data-Cleaning-Exploratory-Data-Analysis
 
-# Smartphone Data Cleaning & Exploratory Data Analysis
-
 ## Project Overview
 This project focuses on cleaning, preprocessing, and analyzing a smartphone dataset to generate meaningful business insights. The workflow includes handling missing values, removing duplicate and inconsistent records, and performing Exploratory Data Analysis (EDA) to identify trends in smartphone pricing, brands, RAM, storage, battery capacity, and processor performance.
 
@@ -71,20 +69,6 @@ Performed detailed analysis on:
 
 ---
 
-## Project Structure
-
-```bash
-smartphone-data-cleaning-eda/
-│
-├── 1_Data_Cleaning.ipynb
-├── 2_EDA.ipynb
-├── raw_data.csv
-├── cleaned_data.csv
-├── README.md
-└── images/
-```
-
----
 
 ## Sample Visualizations
 
@@ -113,7 +97,3 @@ smartphone-data-cleaning-eda/
 
 ---
 
-## Author
-Dipak Bishwas
-
-```
